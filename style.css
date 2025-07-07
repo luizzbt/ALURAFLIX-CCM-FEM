@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(255, 192, 203, 0.959);
+    color: black;
+}
+
+h1{
+    color: purple;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color:rgb(122, 40, 246);
+}
